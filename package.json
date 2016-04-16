@@ -1,0 +1,11 @@
+{
+  "name": "sharingTest",
+  "version": "1.0.0",
+  "description": "sharing",
+  "main": "sharingFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josaphat" <mayubandele@live.fr>,
+  "license": "MIT"
+}
